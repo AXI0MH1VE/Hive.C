@@ -42,6 +42,8 @@ Open the chronicles:
 less docs/Axiom_Hive_Chronicles.md
 ```
 
+Or view online: [Axiom Hive Chronicles](docs/Axiom_Hive_Chronicles.md)
+
 Future modules will be in `src/`.
 
 ## License
