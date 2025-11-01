@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
